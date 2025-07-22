@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/coffee-shop-bento-website-43995/coffee_shop_frontend"
+}
